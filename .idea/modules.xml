@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Application-kotlin.iml" filepath="$PROJECT_DIR$/Application-kotlin.iml" />
+      <module fileurl="file://E:\Application-kotlin\recycleViewDemo-kotlin\demo2.iml" filepath="E:\Application-kotlin\recycleViewDemo-kotlin\demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycleViewDemo-kotlin/recycleViewDemo-kotlin.iml" filepath="$PROJECT_DIR$/recycleViewDemo-kotlin/recycleViewDemo-kotlin.iml" />
+    </modules>
+  </component>
+</project>
